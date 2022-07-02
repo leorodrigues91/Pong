@@ -1,4 +1,4 @@
-# Pong
+# Pong 🏓
 
 O clássico joguinho Pong, feito em Python, para treinar com a biblioteca Turtle.
 
